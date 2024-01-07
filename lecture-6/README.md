@@ -1,6 +1,4 @@
-Website Layout
-
-
+SWIGGY Clone Website Layout
 /**
  *  Header
  *   --Logo
